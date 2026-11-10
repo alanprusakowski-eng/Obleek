@@ -1,0 +1,6 @@
+{
+  "name": "Obleek",
+  "description": "Nowoczesna modułowa aplikacja i przestrzeń robocza Obleek na system Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

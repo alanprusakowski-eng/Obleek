@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Obleek</string>
+    <string name="notification_listener_label">Obleek Smart Detekcja Płatności</string>
+    <string name="nav_dashboard">Pulpit</string>
+    <string name="nav_scanner">Powiadomienia</string>
+    <string name="nav_debts">Długi i Cykle</string>
+    <string name="nav_analytics">Analityka</string>
+    <string name="net_worth_label">Całkowity majątek netto</string>
+    <string name="main_currency_prefix">Waluta główna:</string>
+    <string name="monthly_income">Przychody (mies.)</string>
+    <string name="monthly_expenses">Wydatki (mies.)</string>
+    <string name="accounts_section_title">Konta i Portfele</string>
+    <string name="add_account_button">Dodaj konto</string>
+    <string name="pending_notifications_title">Wykryte powiadomienia płatnicze</string>
+    <string name="confirm_transaction_button">Zatwierdź</string>
+    <string name="dismiss_notification_button">Odrzuć</string>
+    <string name="recent_transactions_title">Ostatnie transakcje</string>
+    <string name="add_transaction_fab">Nowa transakcja</string>
+    <string name="scanner_header_title">Automatyczna detekcja transakcji</string>
+    <string name="scanner_header_subtitle">Obleek przetwarza powiadomienia bankowe lokalnie na urządzeniu (100% prywatności).</string>
+    <string name="simulate_bank_push">Symuluj powiadomienie bankowe</string>
+    <string name="custom_notification_input_hint">Wklej treść powiadomienia z banku lub karty…</string>
+    <string name="parse_notification_button">Przeanalizuj powiadomienie</string>
+    <string name="system_notification_access">Uprawnienia systemowe powiadomień</string>
+    <string name="debts_tab_title">Długi i Pożyczki</string>
+    <string name="recurring_tab_title">Płatności cykliczne</string>
+    <string name="lent_to_others">Pożyczone komuś (Wierzytelności)</string>
+    <string name="borrowed_from_others">Pożyczone od kogoś (Zobowiązania)</string>
+    <string name="settle_debt_button">Rozlicz</string>
+    <string name="pay_recurring_now">Opłać teraz</string>
+    <string name="analytics_header_title">Analityka finansowa i struktura wydatków</string>
+    <string name="empty_transactions_hint">Brak transakcji. Dodaj pierwszą transakcję lub zatwierdź powiadomienie z banku.</string>
+</resources>
